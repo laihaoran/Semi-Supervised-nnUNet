@@ -1,7 +1,16 @@
 # Semi-Supervised-nnUNet
 This is a nnUNet for semi-supervised. We write a semi-supervised nnUNet for abdominal organ segmentation. Don' t doubt，although that our code is father from nnFormer.
 
-If you a 
+For more information about semi-supevised nnU-Net, please read the following paper:
+
+    Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2020). nnU-Net: a self-configuring method 
+    for deep learning-based biomedical image segmentation. Nature Methods, 1-9.
+    
+    Haoran Lai, Tao Wang, Shuoling Zhou. DLUNet: Semi-supervised Learning based Dual-Light UNet for Multi-organ Segmentation. arXiv:2209.10984.
+
+Please also cite this paper if you are using semi-supevised nnU-Net for your research!
+
+
 ## Environment settings
 
 Install Package
